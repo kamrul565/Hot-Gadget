@@ -1,1 +1,68 @@
 
+.buy-now {
+    padding: 10px 30px;
+    border: none;
+    background-color: black;
+    border-radius: 10px;
+    color: white;
+    font-weight: 500;
+    font-size:20px;
+}
+.paragraph {
+    color: gray;
+    text-align: justify;
+    width: 100%;
+}
+
+.bg {
+    background-image: url("images/bg-2.png");
+    background-repeat: no-repeat;
+    padding-bottom: 40px;
+}
+.bg {
+    background-image: url("images/bg-1.png");
+    background-repeat: no-repeat;
+}
+
+.container {
+    padding: 20px;
+}
+
+.see-all {
+    color: orange;
+}
+
+.card {
+    border: none;
+    box-shadow: 5px 5px 15px lightgray;
+    border-radius: 40px;
+}
+.card-text {
+    color: gray;
+}
+.card-footer {
+    border: none;
+    background-color: white;
+}
+
+.Categories {
+    text-align: center;
+    font-size: 25px;
+    font-weight: 700px;
+    padding-top: 30px;
+}
+
+.red {
+    margin-top: 50px;
+    width: 250px;
+    height: 250px;
+    box-shadow: 5px 5px 15px lightgrey;
+    text-align: center;
+}
+
+
+.par {
+    padding-top: 30px;
+    color: gray;
+}
+
